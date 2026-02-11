@@ -36,7 +36,7 @@ const Footer = () => {
           />
         </a>
 
-        <a href="mahmoudnasredeen099@gmail.com" className="social-icon group">
+        <a href="mailto:mahmoudnasredeen099@gmail.com" className="social-icon group">
           <img
             src="/assets/gmail.png"
             alt="Gmail"
